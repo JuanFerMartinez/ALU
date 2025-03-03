@@ -94,4 +94,3 @@ This project implements an **Arithmetic and Logic Unit (ALU)** designed for an F
 - The **LEDs should match logical operations**, while **arithmetic operations must be converted to BCD** for display.  
 - If the **arithmetic result is negative**, `HEX1` should display a **"-"** symbol.  
 
-🚀 **Now the ALU is fully implemented and functional on the FPGA!** 🚀
